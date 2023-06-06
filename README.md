@@ -3,7 +3,7 @@ This repository follows the tutorial of Andrej Karpathy on the tiny-Shakespeare 
 Let's build GPT: from scratch, in code, spelled out.: https://www.youtube.com/watch?v=kCc8FmEb1nY&list=WL&index=6&ab_channel=AndrejKarpathy  
 nanogpt-lecture: https://github.com/karpathy/ng-video-lecture
 
-Use the bigram.py to recreate the results achieved in the video.  
+Run the bigram.py to recreate the results achieved in the video.  
 -----------------------------------------------------------------
 Best performing configuration:
 learning_rate = 3e-4, dropout = 0.2, # 90 / 10 split, AdamW
